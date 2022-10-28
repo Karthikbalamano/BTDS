@@ -1,3 +1,3 @@
 # BTDS
 
-Brain Tumor Detection and segmentation
+## Brain Tumor Detection and segmentation
