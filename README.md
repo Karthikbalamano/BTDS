@@ -5,4 +5,5 @@
       Create 2 more folder in this tumor_detection, name the two folders as dataset, uploads. 
       Download the dataset from given below link and paste inside the dataset folder as yes , no, all.
       
-      Dataset Link: https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
+      Dataset Link: [https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection](url)
+     
