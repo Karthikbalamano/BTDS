@@ -1,4 +1,4 @@
-# BTD-Brain Tumor Detection
+# BTDS-Brain Tumor Detection and Segmentation
    This project helps to classifies the tumor is present or not in the given MRI image. MRI image should be jpg, png formats. 
  # Problem
     Manual delineation.
