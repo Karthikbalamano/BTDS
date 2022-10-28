@@ -1,5 +1,9 @@
 # BTD-Brain Tumor Detection
-   This project helps to classifies the tumor is present or not in the given MRI image. MRI image should be jpg, png formats.
+   This project helps to classifies the tumor is present or not in the given MRI image. MRI image should be jpg, png formats. 
+ # Problem
+    Manual delineation.
+    Variability among the radiologist on segmentation.
+
 
 # Dataset
 
